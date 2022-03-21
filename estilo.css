@@ -1,0 +1,30 @@
+.contenedor {
+    display: flex;
+    height: 50%;
+    width: 100%;
+    background-color: white;
+
+}
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+    color: black;
+    font-weight: bold;
+    
+}
+
+contenedor{
+    
+    
+}
+
+.primero , .segundo , .tercero, .cuarto, .quinto, .sexto, .septimo , .octavo {
+    width: 12%;
+    background: white;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.octavo{
+    font-size: 15px;
+}
